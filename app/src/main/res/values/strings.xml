@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Cookbook</string>
+    <string name="add_to_fav_toast">Added to favourites!</string>
+    <string name="recipe_title_hint">Enter a title for the recipe.</string>
+    <string name="add_to_fav_label">Add to favourites.</string>
+    <string name="recipe_details_hint">Enter the ingredients/ steps for the recipe.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
